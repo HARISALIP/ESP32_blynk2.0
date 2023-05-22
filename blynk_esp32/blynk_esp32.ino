@@ -1,7 +1,7 @@
 //Include the library files
-#define BLYNK_TEMPLATE_ID "TMPL37gtonxJJ"
-#define BLYNK_TEMPLATE_NAME "ROOM AUTOMATION"
-#define BLYNK_AUTH_TOKEN "FkIrxe_G8OpcPbJ0poP_1NNR9SEB-9uT"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME "AUTOMATION"
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
@@ -12,7 +12,7 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 //Enter your WIFI SSID and password
-char ssid[] = "haris";
+char ssid[] = "harisalip";
 char pass[] = "12345678";
 
 BLYNK_WRITE(V0)
