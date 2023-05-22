@@ -4,7 +4,9 @@ Creating an ESP32 Automation System with Blynk
 
 Introduction:
 In this tutorial, we will explore how to build a room automation system using ESP32 and Blynk. The ESP32 is a powerful microcontroller board that offers Wi-Fi connectivity, making it an ideal choice for IoT projects. Blynk, on the other hand, is a popular IoT platform that allows you to control your devices remotely and build interactive applications. By combining these two technologies, we can create a home automation system that can control various devices in your room remotely.
-
+'''
+#includestd.io
+'''
 Prerequisites:
 To follow this tutorial, you will need the following:
 
